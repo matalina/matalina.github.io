@@ -1,0 +1,26 @@
+* {
+  box-sizing: box-border;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  font-size: 16px; 
+}
+
+.mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+.sans {
+  font-family: 'Recursive', sans-serif;
+}
+.serif {
+  font-family: 'Roboto Slab', serif;
+}
+.cursive {
+  font-family: 'Satisfy', cursive;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+}
